@@ -24,8 +24,8 @@
 <div> 
   <a href="https://www.linkedin.com/in/isaack-anthony-cordeiro-arcanjo-239928181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/isaackcordeirox" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/1877218836325759" target="_blank"><img src="https://s3.amazonaws.com/jus.production/system/2912f176-6896-40bc-9ec5-c60002625c34/destaque-curriculo-lattes-1024x578.png_original.png?v=63808104097" width="60" height="28"></a>
-
+  <a href="http://lattes.cnpq.br/1877218836325759" target="_blank"><img src="https://s3.amazonaws.com/jus.production/system/2912f176-6896-40bc-9ec5-c60002625c34/destaque-curriculo-lattes-1024x578.png_original.png?v=63808104097" width="60" height="28"></a><br>
+  
+  ![Snake animation](https://github.com/IsaackCordeiro/isaackcordeiro/blob/output/github-contribution-grid-snake.gif)
+  
 </div>
-<br>
-  ![snake gif](https://github.com/isaackcordeiro/isaackcordeiro/blob/output/github-contribution-grid-snake.gif)
