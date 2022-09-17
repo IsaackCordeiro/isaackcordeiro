@@ -1,8 +1,8 @@
 ##
 ### Olá, meu nome é Isaack Anthony Cordeiro Arcanjo👋
 
-- 📚 Sou graduando em Sistemas de Informação na Univesidade Federal do Espírito Santo(4° período)
-- 🌱 Atualmente estou estudando linguagens e ferramentas front-end(HTML5, CSS3, Javascript/Node.js), Inglês, Scrum, entre outros.
+- 📚 Sou graduando em Sistemas de Informação na Univesidade Federal do Espírito Santo(5° período)
+- 🌱 Atualmente estou estudando as linguagens e ferramentas HTML5, CSS3, Javascript/Node.js, Oracle PLSQL, Inglês, Scrum, entre outros.
 - 📫 Contate-me no email: isaack.be@hotmail.com
 
 <div style="display: inline-block">
