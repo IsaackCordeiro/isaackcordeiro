@@ -51,8 +51,9 @@
 ##
 
 ### Studying in this moment:
+- Javascript(DOM)
+- NodeJS
 - Oracle SQL/PLSQL
-- Git e Github
 - JasperReports
 
 ##
