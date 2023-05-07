@@ -24,6 +24,7 @@
     <img align="center" alt="isaack-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
     <img align="center" alt="isaack-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="isaack-oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <img align="center" alt="isaack-oracle" height="50" width="60" src="https://user-images.githubusercontent.com/79537821/236654510-ca77a5e7-bff6-4712-a744-c5a15555d716.png" />
 </div>
 
 ##
