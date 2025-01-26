@@ -19,12 +19,14 @@
 ### Main skills:
   
 <div style="display: inline-block"><br>
-    <img align="center" alt="isaack-c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
     <img align="center" alt="isaack-html" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
     <img align="center" alt="isaack-css" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
     <img align="center" alt="isaack-js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="isaack-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
+    <img align="center" alt="isaack-java" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"/>
     <img align="center" alt="isaack-oracle" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
     <img align="center" alt="isaack-oracle" height="50" width="60" src="https://user-images.githubusercontent.com/79537821/236654510-ca77a5e7-bff6-4712-a744-c5a15555d716.png" />
+    <img align="center" alt="isaack-c" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
 
 ##
@@ -36,6 +38,7 @@
     <img align="center" alt="isaack-git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
     <img align="center" alt="isaack-github" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
     <img align="center" alt="isaack-windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+    <img align="center" alt="isaack-windows" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" />
 </div>
 
 ##
@@ -53,6 +56,7 @@
 
 ### Studying in this moment:
 
-- Java
+- Android Studio (Kotlin)
+- Java SpringBoot
+- React
 - Oracle SQL/PLSQL
-- JasperReports
